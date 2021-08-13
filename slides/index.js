@@ -79,12 +79,12 @@ export default class Presentation extends React.Component {
         {additonalSlides}
         <Slide transition={["fade"]} bgColor="secondary" textColor="tertiary">
           <BlockQuote>
-            <Quote>Vim is my favourite text editor. I've been using it for years...I can't figure out how to exit.</Quote>
-            <Cite>Albert Einstain and Pitagoras</Cite>
+            <Quote>Vim es mi editor de texto favorito. Lo he estado usando durante años ... no sé cómo salir.</Quote>
+            <Cite>Albert Einstain y Pitagoras</Cite>
           </BlockQuote>
         </Slide>
         <Slide transition={["fade"]} bgColor="primary" textColor="tertiary">
-          <Heading size={2} textColor="tertiary" caps>THE END</Heading>
+          <Heading size={2} textColor="tertiary" caps>FIN</Heading>
         </Slide>
       </Deck>
     );

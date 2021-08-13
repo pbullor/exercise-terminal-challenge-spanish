@@ -7,13 +7,12 @@
     { "instructions": "** Limpiar ** todo el desorden de la línea de comando" },
     { "instructions": "** Ir ** al último nivel debajo de la carpeta ** small-name ** y ** muestre ** en la consola el contenido del archivo `trophy.txt`." },
     { "instructions": "** Mueva ** un nivel hacia arriba y acceda al directorio ** funcode ** y ** enumere todos ** los archivos con la extensión típica de javascript." },
-    { "instructions": "** Crea ** un nuevo directorio dentro de `funcode / the-most-funny /` llamado **not-that-funny**\"." },
-    { "instructions": "** Crea una copia ** de ** the-mostboring-text.txt ** (puedes encontrarlo dentro de los elementos hijos de` / boringfolder / `) y ** nómbralo ** ** lol.txt **." },
-    { "instructions": "** Mover ** `funcode / kids.jpg` dentro de` funcode / images / hello / `" },
+    { "instructions": "** Crea ** un nuevo directorio dentro de `funcode/the-most-funny/` llamado **not-that-funny**\"." },
+    { "instructions": "** Crea una copia ** de ** the-mostboring-text.txt ** (puedes encontrarlo dentro de los elementos hijos de` /boringfolder/ `) y ** nómbralo ** ** lol.txt **." },
+    { "instructions": "** Mover ** `funcode/kids.jpg` dentro de` funcode/images/hello/ `" },
     { "instructions": "**Elimina** el directorio \"**small-name**\"." },
     { "instructions": "** Imprime ** en la línea de comandos el contenido de `the-ultimate-joke.txt`." },
     { "instructions": "** Elimina ** todos los contenidos de la carpeta **boringfolder**, son extremadamente aburridos ..."},
-    { "instructions": "**Open** the file `kamehameha/dragon-ball-jokes.md` using the **VI command line text editor**" },
     { "instructions": "**Abra** el archivo `kamehameha/dragon-ball-jokes.md` usando el **editor de texto de línea de comandos**"},
     { "instructions": "**Actualice** el archivo kamehameha/*dragon-ball-jokes.md* eliminando la primera broma que leyó en el archivo, finalmente **guarde y cierre** el editor de texto."}
 ]
