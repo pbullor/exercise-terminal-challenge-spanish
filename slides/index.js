@@ -42,39 +42,39 @@ export default class Presentation extends React.Component {
         <Slide transition={["zoom"]} bgColor="primary">
             <Image margin="0 auto 100px auto" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,128" />
             <Heading size={1} fit caps lineHeight={1} textColor="secondary">
-                The Command Line Challenge
+                La competencia de la linea de comandos
             </Heading>
             <Text margin="10px 0 0" textColor="tertiary" size={1} fit bold>
-                Get to know the coder's best friend
+                Conoce al mejor amigo del programador
             </Text>
         </Slide>
         <Slide transition={["fade"]} bgColor="tertiary">
-          <Heading size={6} textColor="primary" caps>How does it work?</Heading>
-          <Heading size={1} textColor="secondary">16 challenges</Heading>
-          <Heading size={2} textColor="secondary">12 commands</Heading>
-          <Heading size={3} textColor="secondary">1 winner</Heading>
+          <Heading size={6} textColor="primary" caps>¿Como funciona?</Heading>
+          <Heading size={1} textColor="secondary">16 retos</Heading>
+          <Heading size={2} textColor="secondary">12 comandos</Heading>
+          <Heading size={3} textColor="secondary">1 ganador/a</Heading>
         </Slide>
         <Slide transition={["fade"]} bgColor="primary" textColor="tertiary">
-          <Heading size={2} textColor="secondary" caps>Rules</Heading>
+          <Heading size={2} textColor="secondary" caps>Reglas</Heading>
           <List>
-            <ListItem>Each challenge can only have 1 winner.</ListItem>
-            <ListItem>Whoever wins the most, wins the prize!</ListItem>
-            <ListItem>Only for amateurs (experienced can participate but not win)</ListItem>
-            <ListItem>Follow the exact instructions, it can be tricky</ListItem>
-            <ListItem>Use the tab shortcut for auto-complete!</ListItem>
+            <ListItem>Cada desafío solo puede tener 1 ganadora.</ListItem>
+            <ListItem>¡Quien gane más, gana el premio!</ListItem>
+            <ListItem>Solo para aficionados (los experimentados pueden participar pero no ganar)</ListItem>
+            <ListItem>Siga las instrucciones exactas, puede ser complicado</ListItem>
+            <ListItem>¡Utilice el acceso directo de la pestaña para autocompletar!</ListItem>
           </List>
         </Slide>
         <Slide transition={["fade"]} bgColor="primary" textColor="tertiary">
-          <Heading size={2} textColor="secondary" caps>Before we start</Heading>
+          <Heading size={2} textColor="secondary" caps>Antes que empecemos</Heading>
           <Text margin="10px 0 0" textColor="tertiary" size={1} fit>
-              Each student must clone the following repository:
+            Cada alumno debe clonar el siguiente repositorio:
           </Text>
           <Text margin="10px 0 0" textColor="secondary" size={1} fit bold>
               https://github.com/breatheco-de/excercise-terminal-challenge.git
           </Text>                    
         </Slide>
         <Slide transition={["fade"]} bgColor="primary" textColor="tertiary">
-          <Heading size={2} textColor="secondary" caps>Are u ready?</Heading>
+          <Heading size={2} textColor="secondary" caps>Están list@s??</Heading>
         </Slide>
         {additonalSlides}
         <Slide transition={["fade"]} bgColor="secondary" textColor="tertiary">
